@@ -1,7 +1,11 @@
 
-change 1 in master
 
+change 1 in master
 change 2 in newbranch
 change 3 in master
 
 
+=======
+change 2 in newbranch
+change 4 in newbranch
+>>>>>>> newbranch
