@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 venky
-=======
 venky versatile
 venky versatile in branch
->>>>>>> newbranch
