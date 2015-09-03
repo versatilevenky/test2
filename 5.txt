@@ -1,1 +1,2 @@
 change 2 in newbranch
+change 4 in newbranch
